@@ -1,0 +1,9 @@
+ERiC Runtime (ELSTER Rich Client)
+
+This component is provided by the Bayerisches Landesamt für Steuern (LfSt), Germany, and is not part of this software project.
+
+The ERiC runtime is included solely for interoperability purposes and remains subject to its own license terms and conditions as provided by the Bayerisches Landesamt für Steuern.
+
+No rights to the ERiC runtime are granted under the AGPL-3.0 license or any other license associated with this project.
+
+Licensing and usage conditions for the ERiC runtime are determined exclusively by the Bayerisches Landesamt für Steuern.
