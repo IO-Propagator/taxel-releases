@@ -55,7 +55,7 @@ No personal data is transmitted to the software provider during local processing
 
 ### Further information
 
-Our contact person for data protection can be reached at [privacy@io-propagator.com](mailto:privacy@io-propagator.com)
+Our contact person for data protection can be reached at [privacy@io-propagator.com](mailto:privacy@io-propagator.com).
 
 ---
 
