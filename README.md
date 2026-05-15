@@ -8,7 +8,9 @@ This repository does not contain the source code of the application. The
 open-source source code of Taxel is available separately under the AGPL-3.0
 license.
 
-By downloading or using this software, you agree to the Terms of Use available in this repository (`TERMS_OF_USE.md`). The privacy notice, including ELSTER/ERiC data processing information, is provided in `PRIVACY_NOTICE.md`.
+By downloading or using this software, you agree to the [Terms of
+Use](./TERMS_OF_USE.md).
+The [Privacy Notice](./PRIVACY_NOTICE.md), including information regarding ELSTER/ERiC data processing, is also provided in this repository.
 
 ## Components
 
