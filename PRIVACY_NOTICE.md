@@ -13,7 +13,7 @@ This application may use the ERiC (ELSTER Rich Client) runtime provided by the B
 ### General information
 
 The Taxel desktop app is operated by [IO Propagator UG
-(haftungsbeschränkt)](https://vacuna.io/en/imprint). This is the responsible party within the meaning of the GDPR.
+(haftungsbeschränkt)](https://www.io-propagator.com). This is the responsible party within the meaning of the GDPR.
 
 ### Local Processing
 
@@ -66,7 +66,7 @@ Diese Anwendung kann die ERiC-Laufzeitumgebung (ELSTER Rich Client) des Bayerisc
 ### Allgemeine Hinweise
 
 Die Taxel Desktop App wird von der [IO Propagator UG
-(haftungsbeschränkt)](https://vacuna.io/en/imprint) betrieben. Diese ist Verantwortlicher im Sinne der DSGVO.
+(haftungsbeschränkt)](https://www.io-propagator.com) betrieben. Diese ist Verantwortlicher im Sinne der DSGVO.
 
 ### Hinweis zur Abgrenzung
 

@@ -9,7 +9,7 @@ Diese Nutzungsbedingungen gelten für die Nutzung der Taxel-Anwendung und der be
 ## English Version
 
 The Taxel application is provided by [IO Propagator UG
-(haftungsbeschränkt)](https://vacuna.io/en/imprint) (the “Provider”).
+(haftungsbeschränkt)](https://www.io-propagator.com) (the “Provider”).
 
 ### Scope
 
@@ -58,7 +58,7 @@ Binary releases are provided via the GitHub Releases section of this repository.
 ## Deutsche Version
 
 Die Taxel-Anwendung wird von der [IO Propagator UG
-(haftungsbeschränkt)](https://vacuna.io/en/imprint) bereitgestellt.
+(haftungsbeschränkt)](https://www.io-propagator.com) bereitgestellt.
 
 ### Geltungsbereich
 
