@@ -23,8 +23,6 @@ Use of the ERiC runtime remains subject exclusively to its own applicable licens
 
 ## Provider
 
-This repository and its binary distributions are provided by:
-
-[IO Propagator UG (haftungsbeschränkt)](https://www.io-propagator.com/imprint)
+This repository and its binary distributions are provided by [IO Propagator UG (haftungsbeschränkt)](https://www.io-propagator.com/imprint).
 
 The company is responsible for the packaging and distribution of binaries and release artifacts published through this repository.
