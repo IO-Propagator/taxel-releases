@@ -2,7 +2,7 @@
 
 This repository contains official prebuilt binaries and release artifacts for [Taxel](https://github.com/quambene/taxel).
 
-Official binaries and release artifacts are published in the GitHub Releases section of this repository.
+Official binaries and release artifacts are published in the [GitHub Releases](https://github.com/IO-Propagator/taxel-releases/releases) section of this repository.
 
 This repository does not contain the source code of the application. The
 open-source source code of Taxel is available separately under the AGPL-3.0
